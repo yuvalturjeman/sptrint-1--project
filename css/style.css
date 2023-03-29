@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+table {
+    
+    border:2px solid black;
+    background-color: cadetblue;
+}
+
+
+
+.board{
+    margin: auto;
+    margin-top: 30px;
+    
+    
+}
+
+.level {
+    border-radius: 10px;
+    background-color: darkgray;
+}
+
+
+
+
+
+td {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+    font-weight: bold;
+}
